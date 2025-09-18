@@ -1,0 +1,9 @@
+# 9to print the non primitive datatypes
+my_list=(10,20,30)
+my_tuple=[10,10,20,30]
+my_set={10,20,20,30}
+dict_1={"one":1,"two":2}
+print(my_list)
+print(my_tuple)
+print(my_set)
+print(dict_1)
