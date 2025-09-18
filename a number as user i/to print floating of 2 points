@@ -1,0 +1,4 @@
+#14 to print floating of 2 points
+a=float(input("enter the value:"))
+result=a*2.6
+print("floating points:",result)
