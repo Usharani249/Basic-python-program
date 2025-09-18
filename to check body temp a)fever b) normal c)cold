@@ -1,0 +1,8 @@
+#27 to check body temp a)fever b) normal c)cold
+temperature=float(input("enter your body temperature in c"))
+if(temperature>37.5):
+     print("you have fever")
+elif(temperature>=37.5 and temperature<36.0):
+     print("your temperature is normal")
+else:
+     print("you feel cold")
