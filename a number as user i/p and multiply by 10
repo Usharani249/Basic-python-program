@@ -1,0 +1,4 @@
+#12 a number as user i/p and multiply by 10
+a=int(input("enter the value:"))
+result=a*10
+print("the result:",result)
