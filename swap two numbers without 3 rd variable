@@ -1,0 +1,9 @@
+#6swap two numbers without 3 rd variable
+a=10;
+b=20;
+a=a+b;
+b=a-b;
+a=a-b;
+print("a:",a)
+print("b:",b)
+
