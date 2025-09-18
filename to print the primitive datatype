@@ -1,0 +1,8 @@
+
+#8to print the primitive datatype
+a=10
+b=2.13
+c=True
+print("Integer is:",a)
+print("Float is:",b)
+print("boolean is:",c)
