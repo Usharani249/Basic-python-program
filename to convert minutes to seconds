@@ -1,0 +1,4 @@
+#13to convert minutes to seconds
+a=int(input("enter the value:"))
+seconds=a*60
+print("minutes to seconds:",seconds)
