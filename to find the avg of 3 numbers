@@ -1,0 +1,6 @@
+#11to find the avg of 3 numbers
+a=int(input("enter the  first value:"))
+b=int(input("enter the  second value:"))
+c=int(input("enter the  third value:"))
+avg=(a+b+c)/3
+print("avg of three numbers:",avg)
