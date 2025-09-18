@@ -1,0 +1,8 @@
+7swap two numbers with 3 rd variable
+a=10;
+b=20;
+temp=a
+a=b
+b=temp;
+print("a:",a)
+print("b:",b)
